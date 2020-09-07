@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+  <contato>
+    <Nome>Pessoa1</Nome>
+    <Telefone>456</Telefone>
+    <Endereço>Rua XXX</Endereço>
+  </contato>
+  <contato>
+    <Nome>Pessoa2</Nome>
+    <Telefone>789</Telefone>
+    <Endereço>Rua yyy</Endereço>
+  </contato>
+</agenda>
